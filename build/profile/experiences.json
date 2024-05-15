@@ -1,0 +1,45 @@
+{
+    "experiences": [
+        {
+            "title": "Supervisor, Feeder Dispatch",
+            "subtitle": "United Parcel Service (UPS)",
+            "workType": "Full-time",
+            "workDescription": [
+                "Created an Excel macro that streamlined a previously time-consuming activity, resulting in an 83% decrease in processing time from 30 to under 5 minutes, increasing productivity and efficiency.",
+                "Supervised logistics coordinators, collaborated with cross-functional teams, and oversaw dispatch planning to ensure timely delivery of products, improve customer satisfaction, and meet service, safety, and cost goals.",
+                "Analyzed data (volume, missed packages, delivery failures) to create plans maximizing dispatch results, monitored load movement for opportunities to reduce costs, and ensured adequate staffing levels to minimize overtime expenses.",
+                "Conducted audits and reviews to ensure compliance with regulations, including hazardous material handling, safety reports, and trailer loading/unloading accuracy.",
+                "Verified trailers were moved correctly in the yard on time, ensuring efficient operations and minimizing errors."
+
+            ],
+            "dateText": "11/2021 – 07/2023"
+        },
+        {
+            "title": "Inventory Control Specialist",
+            "subtitle": "Barmetrix, Los Angeles",
+            "workType": "Full-time",
+            "workDescription": [
+                "Gathered data on stock on hand, new purchases, sales, recipes, and costs.",
+                "Analyzed trends and patterns in inventory levels, identifying opportunities for improvement.",
+                "Provided actionable insights and recommendations to optimize inventory management.",
+                "Demonstrated ability to adapt and refine processes based on changing business requirements."
+
+            ],
+            "dateText": "09/2018 – 09/2019"
+        },
+        {
+            "title": "Sales Intern",
+            "subtitle": "Indian Summer Agency",
+            "workType": "Internship",
+            "workDescription": [
+                "As an intern with the Indian Summer Agency (a boutique brand management, sales, and marketing agency), I had the opportunity to attend Agenda trade show alongside the team.", 
+                "Oversaw client scheduling for our sales representative, working closely with brands such as Levi's Skateboarding, Levi's, and Levi's Commuter.",
+                "Acquired valuable insights into the world of fashion and retail, while also developing my organizational skills and attention to detail.",
+                "Ensured that all clients were scheduled efficiently and effectively, creating a seamless experience for our sales representative and their brands.",
+                "Gained hands-on experience in event planning, client management, and brand representation.",
+                "Applied theoretical knowledge of marketing principles and strategies to real-world scenarios, making me a more well-rounded professional in the process."
+            ],
+            "dateText": "01/2017 – 01/2018"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "logo" : {
+        "source": "images/pic-standard-deviation-formula.png",
+        "height" : 60,
+        "width" : 100
+    },
+    "sections": [
+        {
+            "title": "Home",
+            "href": "/"
+        },
+        {
+            "title": "Resume",
+            "href": "images/Resume_portfolio.pdf",
+            "type": "link"
+        }
+    ]
+
+}

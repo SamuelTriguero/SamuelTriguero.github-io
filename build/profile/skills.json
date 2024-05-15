@@ -1,0 +1,29 @@
+{
+    "intro": "I enjoy learning new things and experimenting with new technologies.\nThese are some of the major languages, technologies, tools and platforms I am familiar with:",
+    "skills": [{
+     
+            "title": "Languages & Databases",
+            "items" : [
+     
+                {
+                    "icon": "images/skills/python.png",
+                    "title": "Python"
+                },
+                {
+                    "icon": "images/skills/r.png",
+                    "title": "R"
+                },
+                {
+                    "icon": "images/skills/postgresql.png",
+                    "title": "PostgreSQL"
+                },
+                {
+                    "icon": "images/skills/mssqlserver.png",
+                    "title": "SQL Server"
+                },
+                {
+                    "icon": "images/skills/mysql.png",
+                    "title": "MySQL"
+                }
+        ]}
+]}
