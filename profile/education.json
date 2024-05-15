@@ -1,0 +1,31 @@
+{
+    "education":[
+        {
+            "title": "Mar 2022 - Mar 2024",
+            "cardTitle": "M.S., Data Science",
+            "cardSubtitle":"Eastern University",
+            "cardDetailedText": "Intro to Statistical Modeling, Principles of Python Programming, Data Analytics in R, Information Visualization, Data/Database Management with SQL, Fundamentals of Machine Learning, Applied Machine Learning, Ethical/Philosophical Issues in Data Science",
+            "icon" : {
+                "src": "images/education/eastern.png"
+            }
+        },
+        {
+            "title": "Mar 2022 - Mar 2024",
+            "cardTitle": "M.B.A., Organizational Management",
+            "cardSubtitle":"Eastern University",
+            "cardDetailedText": "Innovation & Design, Marketing in the 21st Century, Data Analysis for Business, Financial Accounting, Operations and Supply Chain Management, Leading Organizational Strategy",
+            "icon" : {
+                "src": "images/education/eastern.png"
+            }
+        },
+        {
+            "title": "Sept 2019 - May 2021",
+            "cardTitle": "B.S., Business Administration, Management",
+            "cardSubtitle":"California State University, Los Angeles",
+            "cardDetailedText": "",
+            "icon" : {
+                "src": "images/education/cal-state-la.png"
+            }
+        }
+    ]
+}
