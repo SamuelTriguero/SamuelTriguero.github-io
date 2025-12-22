@@ -1,1 +1,0 @@
-This portfolio is inspired by the amazing work done by [Mayank Agarwal](https://github.com/mayankagarwal09/dev-portfolio), who has created an incredible resource for developers. While not a developer myself, I was impressed by his portfolio's structure and design, which motivated me to create my own data science-focused portfolio.
